@@ -14,3 +14,5 @@
 <p>[ ] Export Invoice as PDF</p>
 <p>[ ] Invoices Templates</p>
 <p>[ ] Invoices Settings</p>
+
+<p>https://filamentphp.com/plugins/3x1io-tomato-invoices</p>
